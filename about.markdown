@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+This is an example site for [jekyll-theme-image-grid](https://github.com/jirrian/jekyll-theme-image-grid) by [jirrian](https://github.com/jirrian). Image grid is a simple responsive image grid theme for displaying image-based content with various built-in customization options.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+It is available as a ruby gem `jekyll-theme-image-grid` and is Github Pages remote theme compatible. See the [theme repository](https://github.com/jirrian/jekyll-theme-image-grid) for more information.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+- [Example site repository](https://github.com/jirrian/image-grid-example)
+- In-depth installation tutorial (coming soon)
