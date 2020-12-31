@@ -1,4 +1,4 @@
-#image-grid-example
+# image-grid-example
 
 This is an example site for [jekyll-theme-image-grid](https://github.com/jirrian/jekyll-theme-image-grid) by [jirrian](https://github.com/jirrian). Image grid is a simple responsive image grid theme for displaying image-based content with various built-in customization options.
 
